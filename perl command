@@ -1,0 +1,14 @@
+
+$s="raghavendra";
+$l=length($s);
+print $l;
+$i=index($s,u);
+print $i;
+
+print "\n",reverse($s);
+$b=chop($s);
+print"\n", $b,"\n",$s;
+print "entr the number";
+$a=<stdin>;
+print $a;
+
